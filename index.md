@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Danial Mutalib - Portfolio
 
 You can use the [editor on GitHub](https://github.com/danialmutalibs/danialmutalibsPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
